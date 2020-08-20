@@ -1,0 +1,20 @@
+1) Input:
+123456
+
+Output
+642
+231
+
+2) Input:
+abcdef
+a
+
+Output:
+bbcdef
+
+Input:
+aaaaaa
+a
+
+Output:
+bbbbbb
