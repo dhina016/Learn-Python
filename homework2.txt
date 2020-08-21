@@ -1,0 +1,15 @@
+problem 1:
+input
+2
+
+2 4 6 8 10  # 5
+30          # sum
+even        # odd even
+03          # reverse
+
+problem 2:
+qwerty
+
+not palindrome  # check palindrome
+6               # length
+even            # odd or even
